@@ -1,6 +1,7 @@
 # Debugging Game
 
-Game that replicates the daunting task of debugging
+Game that replicates the daunting task of debugging.\
+The APK of the app can be found [here](https://github.com/luigi-bozzoli/debugging-game/blob/master/debugging-game.apk).
 
 ## Screenshots
 
